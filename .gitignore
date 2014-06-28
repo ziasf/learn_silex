@@ -1,0 +1,15 @@
+# Silex directories
+vendor/*
+*/logs/*
+*/cache/*
+
+# Configuration files
+app/config/parameters.ini
+app/config/parameters.yml
+
+# Composer
+composer.*
+
+#Sublime Project
+learn_silex.sublime-project
+learn_silex.sublime-workspace
